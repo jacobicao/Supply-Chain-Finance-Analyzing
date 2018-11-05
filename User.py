@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May  4 11:35:15 2018
-
-@author: caozhijie522
-"""
 from utils import occupation, finacial_product
 
 class Counter:
