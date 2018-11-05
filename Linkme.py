@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May  4 11:34:23 2018
-@author: caozhijie522
-"""
 import pandas as pd
 import random
 from User import User
